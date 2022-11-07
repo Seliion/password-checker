@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Nov  3 19:53:41 2022
-
-@author: Selii
 """
 
 import requests
